@@ -14,28 +14,32 @@ Let's start by examining each class at a glance. We won't go over into detail on
 # Normal Classes
 The Normal Classes are the 9 standard classes that can be played right out of the box without needing any sort of special requirement.
 
-### Hunter
+### Hunter (HU)
+A class that focuses on melee combat. Utilizing **Swords, Wired Lances, and Partizans**, **Hunter (HU)** boasts a varied arsenal of strong Striking-type weaponry and a Skill Tree that promotes both offensive and defensive play, 
+making it well suited for solo and beginner players.
 
-### Ranger
 
-### Force
 
-### Fighter
+### Ranger (RA)
 
-### Gunner
+### Force (FO)
 
-### Techer
+### Fighter (FI)
 
-### Braver
+### Gunner (GU)
 
-### Bouncer
+### Techer (TE)
 
-### Summoner
+### Braver (BR)
+
+### Bouncer (BO)
+
+### Summoner (SU)
 
 # Successor Classes
 
-### Hero
+### Hero (HR)
 
-### Phantom
+### Phantom (PH)
 
-### Etoile
+### Etoile (ET)
