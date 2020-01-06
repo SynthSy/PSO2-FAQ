@@ -11,6 +11,8 @@ Let's talk about classes, or as other games may call them, jobs. There are **9 N
 
 Let's start by examining each class at a glance. We won't go over into detail on how to play each class, but will give a brief summary of what they do and how they play.
 
+<hr>
+
 # Normal Classes
 The Normal Classes are the 9 standard classes that can be played right out of the box without needing any sort of special requirement.
 
@@ -49,6 +51,8 @@ Upon reaching level 75 as a Hunter, you can claim a <a href="#">**Title Reward**
 ### Bouncer (BO)
 
 ### Summoner (SU)
+
+<hr>
 
 # Successor Classes
 
