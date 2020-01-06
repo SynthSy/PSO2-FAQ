@@ -9,6 +9,9 @@ visible: true
 <hr>
 Let's talk about classes, or as other games may call them, jobs. There are **9 Normal classes** plus **3 additional Successor classes** in PSO2. Each class fullfills a specific role in terms of what they do. However, unlike other standard RPGs, PSO2 does not follow what some may call, the "holy trinity", which are heals, tank, DPS. The general gameplay in which PSO2 follows, is fast paced action. Thus it is highly recommended that players should obtain skills and adjust their gameplay for the nature of the game itself.
 
+PSO2 allows players to take two classes at the same time, this is called **Subclassing**. By taking a subclass, your main class takes 10% of the stats of the class you took as a subclass (except PP). 
+Only 9 out of the 12 classes can take a subclass, and only 14 out of the 15 classes can be used as a subclass. 
+
 Let's start by examining each class at a glance. We won't go over into detail on how to play each class, but will give a brief summary of what they do and how they play.
 
 <hr>
@@ -37,6 +40,7 @@ making it well suited for solo and beginner players.
 Upon reaching level 75 as a Hunter, you can claim a <a href="#">**Title Reward**</a> that grants all characters on your account **HP +50, R-ATK +15, and S-DEF +40.**
 
 ### Ranger (RA)
+A class that utilizes mid-range weaponry for ranged combat. Their weapons are Rifles and Launchers.
 
 ### Force (FO)
 
