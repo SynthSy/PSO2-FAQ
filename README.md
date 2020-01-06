@@ -1,2 +1,2 @@
 # PSO2-FAQ
-FAQs for PSO2
+List of pages that will go on to a beginner's guide.
