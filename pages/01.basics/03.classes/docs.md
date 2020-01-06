@@ -18,7 +18,21 @@ The Normal Classes are the 9 standard classes that can be played right out of th
 A class that focuses on melee combat. Utilizing **Swords, Wired Lances, and Partizans**, **Hunter (HU)** boasts a varied arsenal of strong Striking-type weaponry and a Skill Tree that promotes both offensive and defensive play, 
 making it well suited for solo and beginner players.
 
+<strong>ARKS-Visiphone Wiki description on Hunter's weaponry:</strong>
 
+<strong>Swords</strong>
+> A large broadsword used for heavy melee strikes. What it lacks in speed, it makes up for in raw damage. The Sword is a jack-of-all-trades weapon, possessing utility in almost any situation and being capable in a variety of areas. However, it lacks range compared to its other Hunter weapon counterparts. Swords can be powered up by the Skill '''Sword Gear''', which grants them faster charge speeds and a variety of bonuses for staying on the offensive.
+> Sword's Weapon Action is ''Guard''. By holding the Weapon Action Button, any attacks dealt to you will inflict sharply reduced damage and minimal knockback at the cost of PP.
+
+<strong>Wired Lances</strong>
+> A pair of blades hooked to handles by an extendable cable. The specialized blades are capable of striking targets far and wide, at the cost of some raw damage. Wired Lances also excel in grappling targets, manipulating their positions and using them to strike other foes around them. Wired Lances can be powered up by the Skill '''Wired Lance Gear''', which allows them to expend Gear built up by attacking to boost the strength of their grapple-type attacks.
+> Wired Lance's Weapon Action is ''Guard''. By holding the Weapon Action Button, any attacks dealt to you will inflict sharply reduced damage and minimal knockback at the cost of PP.
+
+<strong>Partizans</strong>
+> A long, bladed spear. Despite not having the sheer strength of a Sword, the Partizan makes up for it in its other attributes, with a solid attack speed and great range and mobility with its Photon Arts. The Partizan user can twirl their weapon following the usage of an attack or Photon Art to quickly restore PP, granting them excellent battlefield control as well. Partizans can be powered up by the Skill '''Partizan Gear''', which allows them to expend Gear built up by twirling their Partizan to boost the strength of their Photon Arts.
+> Partizan's Weapon Action is ''Guard''. By holding the Weapon Action Button, any attacks dealt to you will inflict sharply reduced damage and minimal knockback at the cost of PP.
+
+Upon reaching level 75 as a Hunter, you can claim a <a href="#">**Title Reward**</a> that grants all characters on your account **HP +50, R-ATK +15, and S-DEF +40.**
 
 ### Ranger (RA)
 
