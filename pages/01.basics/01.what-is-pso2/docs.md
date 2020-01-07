@@ -20,6 +20,33 @@ You will need to setup an account with SEGA on their japanese website. A detaile
 
 You will also need to download the game, which at the time of writing, is **70 GB**. More information on installing and setting the game up using the English Patch using the PSO2 Tweaker can be found [here](http://www.bumped.org/psublog/phantasy-star-online-2-registration-guide/).
 
+#### PS4
+**WARNING: Upon starting either the PS4 or PSVita versions of the game, you will be prompted to log in using your SEGA ID. Upon logging in for the first time, your PlayStation Network ID will become BOUND to the SEGA ID, and you will not be able to use your SEGA ID on any other PlayStation Network ID. This process cannot be undone!**
+
+There are two methods of obtaining the PS4 version: Download and Physical.
+
+###### Download
+You must create a Japanese PSN ID to download the free version of the game. Instructions to create a Japanese PSN can be found [here](https://www.vg247.com/2018/09/11/how-to-create-a-japanese-psn-account-japan-exclusive-ps4-demos-themes-games/).
+
+###### Physical
+If you have the disk version of the game, the game can be installed on any PS4 system. A Japanese PSN is not required to install or play the game via disk.
+
+#### PSVita
+Much like the PS4 version, it is possible to get the game via digital download or physical versions. It is also possible to download the game if you have custom firmware installed.
+
+###### Download
+You must create a Japanese PSN ID to download the free version of the game, as well as have a spare memory card to download the game on. You must also have a memory card of size **32 GB** or higher to install the game.
+
+###### Physical
+If you have the Game Card version of the game, the game can be installed on any PSVita system. This can be done without the use of a Japanese PSN ID or a separate memory card. Much like the download version, you must have a **32 GB** memory card or larger to update the game.
+
+###### CFW
+
+#### Switch (PSO2 Cloud)
+You must create a Japanese Profile on your Nintendo Switch to download PSO2 Cloud. To do so, simply create a new Profile on your Switch and set the Profile's locale to "Japan".
+
+Unlike other versions of the game, the version on the Nintendo Switch is streamed to your system over the internet via a cloud server. As such, **this version of the game may not work as intended depending on location and internet quality.**
+
 ## Starting & selecting a ship
 
 #### PC
