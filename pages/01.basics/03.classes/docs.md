@@ -69,8 +69,43 @@ When you reach Lv.75 as a Ranger, you can unlock a <a href="#">**Title Reward**<
 <hr>
 
 # Successor Classes
+Unlike the 9 previous classes, Successor Classes are powerful classes that use weaponry from the other classes with new abilities and skills. Because of this, they're unable to use subclasses when used as a main class. However, only Phantom and Etoile can be used as a subclass, but are unable to use their PAs unless they're set as the main class.
+
+You're able to play a Successor Class by leveling two classes to Lv.75 and completing a [Client Order](#).
 
 ### Hero (HR)
+A class that specializes in fighting groups of enemies. Utilizing Swords, Twin Machineguns and Talises, Heroes are able to handle all combat situations with ease, using their superior offensive abilities and agility; as well as their ability to seamlessly cycle their weapons mid-combo.
+
+#### Weapon differences between other classes
+<table>
+  <tr>
+    <th rowspan="2"><br><span style="font-weight:bold">Swords</span></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><br><span style="font-weight:bold">Twin Machineguns</span></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><br><span style="font-weight:bold">Talises</span></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ### Phantom (PH)
 
