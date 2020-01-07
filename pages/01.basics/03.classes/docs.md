@@ -47,7 +47,7 @@ A class that utilizes mid-range weaponry for ranged combat that specializes in m
 **Assault Rifles**
 > A heavy-duty rifle loaded with bullets. Possesses a high rate of attack as well as extreme precision. Its Photon Arts augment its abilities, enabling it to adapt to many battlefield situations. Assault Rifles can be further strengthened with the use of Bullet Skills, which allow the user to load in special magazines that give their attacks special properties.
 
-**Launchers***
+**Launchers**
 > A slow, but deadly rocket launcher. Has terrible attack speed, but compensates in extremely high raw damage. Its attacks not only hit hard, but also have a blast radius that can hit multiple enemies in an area simultaneously, making it an excellent tool for taking down groups of enemies. Launchers can be further strengthened with the use of Shot Skills, which allow the user to load in special cartridges that can debilitate enemies.
 
 When you reach Lv.75 as a Ranger, you can unlock a <a href="#">**Title Reward**</a> which grants you **R-ATK +20, T-ATK +20, and R-DEF +40**.
