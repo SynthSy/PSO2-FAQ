@@ -19,7 +19,7 @@ Let's start by examining each class at a glance. We won't go over into detail on
 # Normal Classes
 The Normal Classes are the 9 standard classes that can be played right out of the box without needing any sort of special requirement.
 
-=== Hunter (HU) ===
+### Hunter (HU)
 A class that focuses on melee combat. Utilizing **Swords, Wired Lances, and Partizans**, Hunter boasts a varied arsenal of strong Striking-type weaponry and a Skill Tree that promotes both offensive and defensive play, 
 making it well suited for solo and beginner players.
 
@@ -77,6 +77,12 @@ You're able to play a Successor Class by leveling two classes to Lv.75 and compl
 A class that specializes in fighting groups of enemies. Utilizing Swords, Twin Machineguns and Talises, Heroes are able to handle all combat situations with ease, using their superior offensive abilities and agility; as well as their ability to seamlessly cycle their weapons mid-combo.
 
 #### Weapon differences between other classes
+|**Swords**|**Twin Machineguns**|**Talises**|
+|----------|--------------------|-----------|
+| * Swords are held with one hand, instead of being held with two. Thus allowing for faster swinging animations. | * Twin Machineguns lack the stylish roll ability from Gunner. | * Talis has its own Photon Arts. Is also capable of using techs. |
+| * Weapon Action: **Aura Blast** - Fire bolts of Photon energy. Long pressing charges the blast and lets you fire an even larger bolt. | * Normal attacks consume PP. | * Weapon action: |
+| | * Weapon action: **Reload** - Recovers PP by twirling your TMGs. By doing a JA on a Reload will perform a Just Reload, which is a faster PP regeneration. | | |
+
 <table>
 	<tr>
 		<th><span style="font-weight:bold">Swords</span></th>
@@ -86,20 +92,21 @@ A class that specializes in fighting groups of enemies. Utilizing Swords, Twin M
 	<tr>
 		<td>
 			<ul>
-				<li>Hero Swords are held with one hand, instead of being held with two. Thus allowing for faster swinging animations.</li>
-				<li>Hero Sword Weapon Action: <strong>Aura Blast</strong> - Fire bolts of Photon energy. Long pressing charges the blast and lets you fire an even larger bolt.</li>
+				<li>Swords are held with one hand, instead of being held with two. Thus allowing for faster swinging animations.</li>
+				<li>Weapon Action: <strong>Aura Blast</strong> - Fire bolts of Photon energy. Long pressing charges the blast and lets you fire an even larger bolt.</li>
 			</ul>
 		</td>
 		<td>
 			<ul>
-				<li>Hero Twin Machineguns lack the stylish roll ability from Gunner.</li>
+				<li>Twin Machineguns lack the stylish roll ability from Gunner.</li>
 				<li>Normal attacks consume PP.</li>
 				<li>Weapon action: <strong>Reload</strong> - Recovers PP by twirling your TMGs. By doing a JA on a Reload will perform a Just Reload, which is a faster PP regeneration.</li>
 			</ul>
 		</td>
 		<td>
 			<ul>
-				<li></li>
+				<li>Talis has its own Photon Arts. Is also capable of using techs.</li>
+				<li>Weapon action: <strong>Warp</strong></li>
 			</ul>
 		</td>
 	</tr>
