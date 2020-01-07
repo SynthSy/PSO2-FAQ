@@ -18,7 +18,7 @@ PSO2 has been released on the **Playstation 4**, **Nintendo Switch** (Cloud stre
 ### PC
 You will need to setup an account with SEGA on their japanese website. A detailed guide can be found [here](http://www.bumped.org/psublog/phantasy-star-online-2-registration-guide/).
 
-You will also need to download the game, which at the time of writing, is **70 GB**. More information on installing and setting the game up using the English Patch using the PSO2 Tweaker can be found [here](http://www.bumped.org/psublog/phantasy-star-online-2-registration-guide/).
+You will also need to download the game, which at the time of writing, is **70 GB**. More information on installing and setting the game up using the English Patch using the PSO2 Tweaker can be found [here](http://arks-layer.com/setup.html).
 
 ### PS4
 **WARNING: Upon starting either the PS4 or PSVita versions of the game, you will be prompted to log in using your SEGA ID. Upon logging in for the first time, your PlayStation Network ID will become BOUND to the SEGA ID, and you will not be able to use your SEGA ID on any other PlayStation Network ID. This process cannot be undone!**
