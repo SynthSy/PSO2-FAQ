@@ -85,14 +85,20 @@ A class that specializes in fighting groups of enemies. Utilizing Swords, Twin M
 	</tr>
 	<tr>
 		<td>
-			- Hero Swords are held with one hand, instead of being held with two. Thus allowing for faster swinging animations.
-			- Hero Sword Weapon Action: **Aura Blast** - Fire bolts of Photon energy. Long pressing charges the blast and lets you fire an even larger bolt.
+			<ul>
+				<li>Hero Swords are held with one hand, instead of being held with two. Thus allowing for faster swinging animations.</li>
+				<li>Hero Sword Weapon Action: **Aura Blast** - Fire bolts of Photon energy. Long pressing charges the blast and lets you fire an even larger bolt.</li>
+			</ul>
 		</td>
 		<td>
-			- Yuusha
+			<ul>
+				<li>Yuusha</li>
+			</ul>
 		</td>
 		<td>
-			- Hero
+			<ul>
+				<li>Hero</li>
+			</ul>
 		</td>
 	</tr>
 </table>
