@@ -79,38 +79,9 @@ A class that specializes in fighting groups of enemies. Utilizing Swords, Twin M
 #### Weapon differences between other classes
 |**Swords**|**Twin Machineguns**|**Talises**|
 |----------|--------------------|-----------|
-| * Swords are held with one hand, instead of being held with two. Thus allowing for faster swinging animations. | * Twin Machineguns lack the stylish roll ability from Gunner. | * Talis has its own Photon Arts. Is also capable of using techs. |
-| * Weapon Action: **Aura Blast** - Fire bolts of Photon energy. Long pressing charges the blast and lets you fire an even larger bolt. | * Normal attacks consume PP. | * Weapon action: |
-| | * Weapon action: **Reload** - Recovers PP by twirling your TMGs. By doing a JA on a Reload will perform a Just Reload, which is a faster PP regeneration. | | |
-
-<table>
-	<tr>
-		<th><span style="font-weight:bold">Swords</span></th>
-		<th><span style="font-weight:bold">Twin Machineguns</span></th>
-		<th><span style="font-weight:bold">Talises</span></th>
-	</tr>
-	<tr>
-		<td>
-			<ul>
-				<li>Swords are held with one hand, instead of being held with two. Thus allowing for faster swinging animations.</li>
-				<li>Weapon Action: <strong>Aura Blast</strong> - Fire bolts of Photon energy. Long pressing charges the blast and lets you fire an even larger bolt.</li>
-			</ul>
-		</td>
-		<td>
-			<ul>
-				<li>Twin Machineguns lack the stylish roll ability from Gunner.</li>
-				<li>Normal attacks consume PP.</li>
-				<li>Weapon action: <strong>Reload</strong> - Recovers PP by twirling your TMGs. By doing a JA on a Reload will perform a Just Reload, which is a faster PP regeneration.</li>
-			</ul>
-		</td>
-		<td>
-			<ul>
-				<li>Talis has its own Photon Arts. Is also capable of using techs.</li>
-				<li>Weapon action: <strong>Warp</strong></li>
-			</ul>
-		</td>
-	</tr>
-</table>
+| Swords are held with one hand, instead of being held with two. Thus allowing for faster swinging animations. | Twin Machineguns lack the stylish roll ability from Gunner. | Talis has its own Photon Arts. Is also capable of using techs. |
+| Weapon Action: **Energy Blast** - Fire bolts of Photon energy. Long pressing charges the blast and lets you fire an even larger bolt. | Normal attacks consume PP. | Weapon action: **Agile Shift** - Allows you to set a warp point by long pressing the Weapon Action button, short tapping the Weapon Action button will cause you to teleport to that location. |
+| | Weapon action: **Reload** - Recovers PP by twirling your TMGs. By doing a JA on a Reload will perform a Just Reload, which is a faster PP regeneration. | Can perform Step Attacks instead of Mirage Step. |
 
 ### Phantom (PH)
 
