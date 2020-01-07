@@ -55,4 +55,4 @@ Sub units are definied by having **Sub** in their name. They may be placed into 
 
 **Techniques (Tech)** are elemental attacks that certain classes can use.
 
-Both PAs and Techs require PP to use them. Most weapons allow for use of this, and allows for customization of the ordering of PAs via the [Weapon Palette](/../menu/).
+Both PAs and Techs require PP to use them. Most weapons allow for use of this, and allows for customization of the ordering of PAs via the [Weapon Palette](/../basics/menu/).
