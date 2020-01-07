@@ -48,3 +48,9 @@ There are 4 types of units, **Rear, Arm, Leg, and Sub.**
 
 Sub units are definied by having **Sub** in their name. They may be placed into any armor slot.
 
+#### Photon Arts & Techniques (PA/Techs)
+**Photon Arts (PA)** are powerful attacks that weapons for each [class](/../classes/) can unleash.
+
+**Techniques (Tech)** are elemental attacks that certain classes can use.
+
+Both PAs and Techs require PP to use them. Most weapons allow for use of this, and allows for customization of the ordering of PAs via the [Weapon Palette](/../menu/).

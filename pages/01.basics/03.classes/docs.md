@@ -9,8 +9,8 @@ visible: true
 <hr>
 Let's talk about classes, or as other games may call them, jobs. There are **9 Normal classes** plus **3 additional Successor classes** in PSO2. Each class fullfills a specific role in terms of what they do. However, unlike other standard RPGs, PSO2 does not follow what some may call, the "holy trinity", which are heals, tank, DPS. The general gameplay in which PSO2 follows, is fast paced action. Thus it is highly recommended that players should obtain skills and adjust their gameplay for the nature of the game itself.
 
-PSO2 allows players to take two classes at the same time, this is called **Subclassing**. By taking a subclass, your main class takes 10% of the stats of the class you took as a subclass (except PP). 
-Only 9 out of the 12 classes can take a subclass, and only 14 out of the 15 classes can be used as a subclass. 
+PSO2 allows players to take two classes at the same time, this is called **Subclassing**. By taking a subclass, your main class takes 10% of the stats of the class you took as a subclass (except PP). Subclasses will also receive 25% (50% if Summoner) of the experience that the main class is given until the subclass reaches Lv.75.
+Only 9 out of the 12 classes can take a subclass, and only 14 out of the 15 classes can be used as a subclass. All classes are able to wield a Gunslash.
 
 Let's start by examining each class at a glance. We won't go over into detail on how to play each class, but will give a brief summary of what they do and how they play.
 
@@ -40,7 +40,17 @@ making it well suited for solo and beginner players.
 Upon reaching level 75 as a Hunter, you can claim a <a href="#">**Title Reward**</a> that grants all characters on your account **HP +50, R-ATK +15, and S-DEF +40.**
 
 ### Ranger (RA)
-A class that utilizes mid-range weaponry for ranged combat. Their weapons are Rifles and Launchers.
+A class that utilizes mid-range weaponry for ranged combat that specializes in mid-range "supportive" DPS that shines best against large enemies and large enemy groups.
+
+<strong>ARKS-Visiphone Wiki description on Ranger's weaponry:</strong>
+
+**Assault Rifles**
+> A heavy-duty rifle loaded with bullets. Possesses a high rate of attack as well as extreme precision. Its Photon Arts augment its abilities, enabling it to adapt to many battlefield situations. Assault Rifles can be further strengthened with the use of Bullet Skills, which allow the user to load in special magazines that give their attacks special properties.
+
+**Launchers***
+> A slow, but deadly rocket launcher. Has terrible attack speed, but compensates in extremely high raw damage. Its attacks not only hit hard, but also have a blast radius that can hit multiple enemies in an area simultaneously, making it an excellent tool for taking down groups of enemies. Launchers can be further strengthened with the use of Shot Skills, which allow the user to load in special cartridges that can debilitate enemies.
+
+When you reach Lv.75 as a Ranger, you can unlock a <a href="#">**Title Reward**</a> which grants you **R-ATK +20, T-ATK +20, and R-DEF +40**.
 
 ### Force (FO)
 
