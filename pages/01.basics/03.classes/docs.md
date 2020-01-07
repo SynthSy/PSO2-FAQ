@@ -1,5 +1,7 @@
 ---
 title: Classes
+page-toc:
+  active: true
 taxonomy:
     category:
         - docs
