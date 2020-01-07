@@ -10,7 +10,6 @@ visible: true
 <hr>
 As with every online game, PSO2 has its own bundle of new words to learn and digest. So to make it easier, we'll divide up the terminology by category.
 
-
 #### Player Stats
 As per all RPGs, Phantasy Star Online 2 uses a slough of stat types that increase specific attributes to your player character. Some increase your weapon damage, others increase your damage variance, and your defense. Here is a breakdown of each stat-type:
 
@@ -36,6 +35,9 @@ The gunslash is a weapon that is a fusion of a gun and a saber, that allow you t
 
 Weapons in PSO2 also can be improved upon to increase their stats and allow players to augment their own stats by adding **special abilities** or **affixes** on to the weapon itself. **Strengthening** or 
 **grinding** weapons to increase their stats can also unlock their **potential ability** and if the weapon supports it, their **Special Ability Factor (SAF)**.
+
+#### Weapon Action
+Some weapons in PSO2 have an alternative action that can be performed, called a **Weapon Action**. Some classes can even change what the Weapon Action on a weapon does.
 
 #### Units (Armor)
 In very much the same in other RPGs, protecting yourself using armor is very important. Phantasy Star Online 2's quests can give the average player a hard time or an easier time with the right armor and weapon on their side. PSO2's armor unit system also allows players to augment their stats in a similar fashion to weapons.
