@@ -20,7 +20,7 @@ Let's start by examining each class at a glance. We won't go over into detail on
 The Normal Classes are the 9 standard classes that can be played right out of the box without needing any sort of special requirement.
 
 ### Hunter (HU)
-A class that focuses on melee combat. Utilizing **Swords, Wired Lances, and Partizans**, **Hunter (HU)** boasts a varied arsenal of strong Striking-type weaponry and a Skill Tree that promotes both offensive and defensive play, 
+A class that focuses on melee combat. Utilizing **Swords, Wired Lances, and Partizans**, Hunter boasts a varied arsenal of strong Striking-type weaponry and a Skill Tree that promotes both offensive and defensive play, 
 making it well suited for solo and beginner players.
 
 <strong>ARKS-Visiphone Wiki description on Hunter's weaponry:</strong>
@@ -37,10 +37,10 @@ making it well suited for solo and beginner players.
 > A long, bladed spear. Despite not having the sheer strength of a Sword, the Partizan makes up for it in its other attributes, with a solid attack speed and great range and mobility with its Photon Arts. The Partizan user can twirl their weapon following the usage of an attack or Photon Art to quickly restore PP, granting them excellent battlefield control as well. Partizans can be powered up by the Skill '''Partizan Gear''', which allows them to expend Gear built up by twirling their Partizan to boost the strength of their Photon Arts.
 > Partizan's Weapon Action is ''Guard''. By holding the Weapon Action Button, any attacks dealt to you will inflict sharply reduced damage and minimal knockback at the cost of PP.
 
-Upon reaching level 75 as a Hunter, you can claim a <a href="#">**Title Reward**</a> that grants all characters on your account **HP +50, R-ATK +15, and S-DEF +40.**
+Upon reaching Lv.75 as a Hunter, you can claim a <a href="#">**Title Reward**</a> that grants all characters on your account **HP +50, R-ATK +15, and S-DEF +40**.
 
 ### Ranger (RA)
-A class that utilizes mid-range weaponry for ranged combat that specializes in mid-range "supportive" DPS that shines best against large enemies and large enemy groups.
+A class that utilizes mid-range weaponry for ranged combat that specializes in mid-range "supportive" DPS that shines best against large enemies and large enemy groups. A Ranger's weapons include **Assault Rifles and Launchers**.
 
 <strong>ARKS-Visiphone Wiki description on Ranger's weaponry:</strong>
 
