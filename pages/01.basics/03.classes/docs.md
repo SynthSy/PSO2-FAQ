@@ -19,7 +19,7 @@ Let's start by examining each class at a glance. We won't go over into detail on
 # Normal Classes
 The Normal Classes are the 9 standard classes that can be played right out of the box without needing any sort of special requirement.
 
-### Hunter (HU)
+=== Hunter (HU) ===
 A class that focuses on melee combat. Utilizing **Swords, Wired Lances, and Partizans**, Hunter boasts a varied arsenal of strong Striking-type weaponry and a Skill Tree that promotes both offensive and defensive play, 
 making it well suited for solo and beginner players.
 
@@ -87,17 +87,19 @@ A class that specializes in fighting groups of enemies. Utilizing Swords, Twin M
 		<td>
 			<ul>
 				<li>Hero Swords are held with one hand, instead of being held with two. Thus allowing for faster swinging animations.</li>
-				<li>Hero Sword Weapon Action: **Aura Blast** - Fire bolts of Photon energy. Long pressing charges the blast and lets you fire an even larger bolt.</li>
+				<li>Hero Sword Weapon Action: <strong>Aura Blast</strong> - Fire bolts of Photon energy. Long pressing charges the blast and lets you fire an even larger bolt.</li>
 			</ul>
 		</td>
 		<td>
 			<ul>
-				<li>Yuusha</li>
+				<li>Hero Twin Machineguns lack the stylish roll ability from Gunner.</li>
+				<li>Normal attacks consume PP.</li>
+				<li>Weapon action: <strong>Reload</strong> - Recovers PP by twirling your TMGs. By doing a JA on a Reload will perform a Just Reload, which is a faster PP regeneration.</li>
 			</ul>
 		</td>
 		<td>
 			<ul>
-				<li>Hero</li>
+				<li></li>
 			</ul>
 		</td>
 	</tr>
@@ -106,3 +108,5 @@ A class that specializes in fighting groups of enemies. Utilizing Swords, Twin M
 ### Phantom (PH)
 
 ### Etoile (ET)
+
+
