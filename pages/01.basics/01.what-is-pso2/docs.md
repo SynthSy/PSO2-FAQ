@@ -25,22 +25,24 @@ You will also need to download the game, which at the time of writing, is **70 G
 
 There are two methods of obtaining the PS4 version: Download and Physical.
 
-###### Download
+**Download**
 You must create a Japanese PSN ID to download the free version of the game. Instructions to create a Japanese PSN can be found [here](https://www.vg247.com/2018/09/11/how-to-create-a-japanese-psn-account-japan-exclusive-ps4-demos-themes-games/).
 
-###### Physical
+**Physical**
 If you have the disk version of the game, the game can be installed on any PS4 system. A Japanese PSN is not required to install or play the game via disk.
 
 #### PSVita
 Much like the PS4 version, it is possible to get the game via digital download or physical versions. It is also possible to download the game if you have custom firmware installed.
 
-###### Download
+**Download**
 You must create a Japanese PSN ID to download the free version of the game, as well as have a spare memory card to download the game on. You must also have a memory card of size **32 GB** or higher to install the game.
 
-###### Physical
+**Physical**
 If you have the Game Card version of the game, the game can be installed on any PSVita system. This can be done without the use of a Japanese PSN ID or a separate memory card. Much like the download version, you must have a **32 GB** memory card or larger to update the game.
 
-###### CFW
+**CFW**
+
+<hr>
 
 #### Switch (PSO2 Cloud)
 You must create a Japanese Profile on your Nintendo Switch to download PSO2 Cloud. To do so, simply create a new Profile on your Switch and set the Profile's locale to "Japan".
