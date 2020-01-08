@@ -10,6 +10,28 @@ visible: true
 <hr>
 As with every online game, PSO2 has its own bundle of new words to learn and digest. So to make it easier, we'll divide up the terminology by category.
 
+#### Rarity
+PSO2 has a basic rarity system that those who played the previous series, namely Phantasy Star Universe, will be familiar with.
+
+Equipment rarity ranges from a rarity of ★1 to a rarity of ★15, with ★1 being common and ★15 being super rare.
+
+#### Currency
+PSO2, like all other online games, has multiple currencies. The main currency from the previous games, **Meseta**, makes a return to PSO2 as its in-game only currency. 
+
+There is also **ARKS Cash**, or **AC**. This is the premium currency that can only be obtained by purchasing with real money. This is mostly used for cosmetics, but can also be used to purchase other things in the game. Thankfully, it's impossible to buy your way into getting gear using real money.
+
+**Star Gems** or **SG**, is the 
+
+**FUN Points** or **FUN**, is the 
+
+**Casino Coins** or **CC**, is the
+
+**Challenge Miles** or **CM**,
+
+**Battle Points** or **BP**,
+
+**NetCafe Points** or **NC**,
+
 #### Player Stats
 As per all RPGs, Phantasy Star Online 2 uses a slough of stat types that increase specific attributes to your player character. Some increase your weapon damage, others increase your damage variance, and your defense. Here is a breakdown of each stat-type:
 
@@ -50,9 +72,70 @@ There are 4 types of units, **Rear, Arm, Leg, and Sub.**
 
 Sub units are definied by having **Sub** in their name. They may be placed into any armor slot.
 
+#### Weapon & Unit Grinding
+
+
 #### Photon Arts & Techniques (PA/Techs)
 **Photon Arts (PA)** are powerful attacks that weapons for each [class](/../classes/) can unleash.
 
 **Techniques (Tech)** are elemental attacks that certain classes can use.
 
-Both PAs and Techs require PP to use them. Most weapons allow for use of this, and allows for customization of the ordering of PAs via the [Weapon Palette](/../basics/menu/).
+Both PAs and Techs require PP to use them. Most weapons allow for use of this, and allows for customization of the ordering of PAs via the [Weapon Palette](/../Guides/basics/menu/).
+
+#### Special Ability (Affixes)
+Special Abilities are augmentations that may come with a piece of equipment. They can also be added into your existing weapons and units as well. The English community refers to them as **Affixes**.
+
+Special Abilities can help augment your player stats and thus learning to affix your own equipment is a crucial step in overall player progress.
+
+#### Super Special Abilities (SSA)
+Super Special Abilities are a subset of special abilities that only certain weapons and ★13 units can utilize. They often have separate modifiers or skills that can go on to existing equipment.
+
+#### Potential Abilities
+Weapons that are grinded to their maximum will have separate ability that differs from normal special abilities, but are closer to Super Special Abilities in terms of their effects.
+
+Every weapon has a potential ability and is always recommended to seek weapons with powerful potential abilities. Some can have high damage percentage modifiers that can cause a lower rarity weapon to equal or exceed a higher rarity weapon.
+
+#### Fodder
+
+#### Client Orders
+
+#### Difficulty
+
+#### Party
+
+#### Quest Types
+
+#### PSE & PSE Bursts
+
+#### Criticals
+The bright blue numbers you get when hitting things. Normal damage is in white. Unlike other games however, criticals in PSO2 do not grant extra damage. They instead grant the highest damage possible within your damage range. For example, if your damage ranges between 3,000 and 24,000 damage, your critical hit would yield the 24,000 damage.
+
+Increasing your critical hit will improve the chances that you hit for your maximum, with a 100% critical rate will guarantee that you are hitting for your maximum possible damage.
+
+#### Just Attacks
+Just Attacks, or JAs are the act of timing your attacks according to the timing circle that appears around you after an attack. When it’s red, you attack. Doing so gives a damage bonus towards the attack you “Just attacked” with.
+
+It is not stressed enough how important players should master their Just Attack timings.
+
+#### Classes
+PSO2 has 15 classes total, each are usually abbreviated when talking about them.
+
+They are as followed:
+* Hunter = HU
+* Ranger = RA
+* Force  = FO
+* Fighter = FI
+* Gunner = GU
+* Techer = TE
+* Braver = BR
+* Bouncer = BO
+* Summoner = SU
+* Hero = HR
+* Phantom = PH
+* Etoile = ET
+
+#### Old Type & New Type
+Upon it's initial release until 2015, PSO2 was saturated with a certain class of weapon that required you to throw meseta at the 
+
+#### Mags & Photon Blasts
+

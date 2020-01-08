@@ -85,6 +85,8 @@ A class that specializes in fighting groups of enemies. Utilizing Swords, Twin M
 | Weapon Action: **Energy Blast** - Fire bolts of Photon energy. Long pressing charges the blast and lets you fire an even larger bolt. | Normal attacks consume PP. | Weapon action: **Agile Shift** - Allows you to set a warp point by long pressing the Weapon Action button, short tapping the Weapon Action button will cause you to teleport to that location. |
 | | Weapon action: **Reload** - Recovers PP by twirling your TMGs. By doing a JA on a Reload will perform a Just Reload, which is a faster PP regeneration. | Can perform Step Attacks instead of Mirage Step. |
 
+#### Skill Overview
+
 ### Phantom (PH)
 
 ### Etoile (ET)
