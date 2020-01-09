@@ -25,14 +25,22 @@ A mythical sensor that somehow knows what you are trying to hunt down and "gifts
 
 Some players swear by this sensor and go to great lengths to avoid tripping it. Often lumped together with RNGesus.
 
-#### Whales & Whaling
-**Whale**,(/(h)wāl/) a noun.
+#### Boosts
 
-Whales are players who have some sort of disposable income IRL. They are known to throw money at the game to obtain cosmetics and other things.
+#### Boost Week
+
+#### Premium/Premium Set
+
+#### Scratches
+
+#### Whales & Whaling
+**Whale**, (/(h)wāl/) a noun.
+
+Whales are players who have disposable income IRL. They are known to throw money at the game to obtain cosmetics and other things.
 
 **Whaling**, (/ˈ(h)wāliNG/) a verb.
 
-The act of spending real money, usually loads of it.
+The act of spending ludicrous amounts of real money.
 
 #### Mates & Atomizers (Healing Items)
 A staple in the Phantasy Star series, the basic healing items make a return. A difference from the previous series however, is that you're unable to hold more than 5 **Atomizers** and each healing item has an animation.
@@ -43,7 +51,7 @@ A staple in the Phantasy Star series, the basic healing items make a return. A d
 * Moon Atomizer = Allows you to revive other players within range, cannot revive yourself.
 * Sol Atomizer = Cures you and others within range of a status ailment
 * Star Atomizer = Cures status ailments and heals players (including you) within range. 
-* Cosmo Atomizer = OP healing item that only real money can buy. Do not buy this unless you have disposable income.
+* Cosmo Atomizer = OP healing item that only real money can buy. **Do not buy this unless you have disposable income.**
 
 #### Currency
 PSO2, like all other online games, has multiple currencies. The main currency from the previous games, **Meseta**, makes a return to PSO2 as its in-game only currency. 
@@ -52,15 +60,15 @@ There is also **ARKS Cash**, or **AC**. This is the premium currency that can on
 
 **Star Gems** or **SG**, is the currency that is mostly used as a gatekeeper to all things time based, cosmetics and skill trees. You can get this for free, or by whaling your way in.
 
-**FUN Points** or **FUN**, is the 
+**FUN Points** or **FUN**, are the basic free alternative currency that the game gives you whenever possible. You only use FUN to roll for free cosmetic gacha.
 
-**Casino Coins** or **CC**, is the
+**Casino Coins** or **CC**, the currency of the casino. It was once a popular place, now it's a ghost town. You can still smell the cigarette smoke. Used for some very niche items and Star Gems.
 
-**Challenge Miles** or **CM**,
+**Challenge Miles** or **CM**, a dead currency. Given when you complete Challenge Mode.
 
-**Battle Coins** or **B**,
+**Battle Coins** or **B**, the currency of the Battle Arena. Not to be confused with a battle royale arena. It's a unique cheap PvP arena reward which can be exchanged for prizes.
 
-**NetCafe Points** or **C**,
+**NetCafe Points** or **C**. Cafe Points can only be obtained in official SEGA sanctioned NetCafes in Japan. **ONLY IN JAPAN**.
 
 #### Player Stats
 As per all RPGs, Phantasy Star Online 2 uses a slough of stat types that increase specific attributes to your player character. Some increase your weapon damage, others increase your damage variance, and your defense. Here is a breakdown of each stat-type:
@@ -68,7 +76,7 @@ As per all RPGs, Phantasy Star Online 2 uses a slough of stat types that increas
 ![](character%20stats.jpg)
 
 * **HP** - Your health points.
-* **PP** - **Photon Points**, PP is consumed every time a **Photon Art** (PA) or **Technique** is used, and if there is not enough PP, the PA or Technique cannot be used. You can recover spent PP by using normal attacks.
+* **PP** - **Photon Points**, PP is consumed every time a **Photon Art** (PA) or **Technique** is used, and if there is not enough PP, the PA or Technique cannot be used (Think MP if you're coming from other games). You can recover spent PP by using normal attacks.
 * **S-ATK** - **Striking Attack**, deals striking type damage. Weapons that scale off S-ATK deal striking based damage.
 * **R-ATK** - **Ranged Attack**, deals ranged type damage. Weapons that scale off R-ATK deal ranged based damage.
 * **T-ATK** - **Technique Attack**, deals technique type damage. Weapons that scale off T-ATK deal technique based damage.
@@ -100,10 +108,9 @@ There are 4 types of units, **Rear, Arm, Leg, and Sub.**
 2. This slot is reserved for arm units. Arm units are defined by having **Arm** in their name.
 3. This slot is reserved for leg units. Leg units are defined by having **Leg** in their name.
 
-Sub units are definied by having **Sub** in their name. They may be placed into any armor slot.
+Sub units are definied by having **Sub** in their name. They may be placed into any armor slot. They're used as temporary armor, don't give them a name, don't feed them, don't get attached to them.
 
 #### Weapon & Unit Grinding
-
 
 #### Photon Arts & Techniques (PA/Techs)
 **Photon Arts (PA)** are powerful attacks that weapons for each [class](/../classes/) can unleash.
@@ -141,11 +148,13 @@ There are six difficulties. Certain rarity of equipment are only available on hi
 5. **Extra Hard (XH)**
 6. **Ultra Hard (UH)**
 
-Most endgame content (at the time of writing) is centered on XH and UH.
+Most endgame content (at the time of writing) is centered on XH and UH. Most of the community are at this point.
 
 #### Party
 
 #### Quest Types
+
+#### Bonus Keys
 
 #### PSE & PSE Bursts
 
