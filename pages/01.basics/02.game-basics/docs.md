@@ -15,12 +15,42 @@ PSO2 has a basic rarity system that those who played the previous series, namely
 
 Equipment rarity ranges from a rarity of ★1 to a rarity of ★15, with ★1 being common and ★15 being super rare.
 
+#### RNG
+A random number generator, a system that randomly generates a number. Game developers build drop systems with RNG in mind.
+
+Players are known to "pray" to RNGesus (RNG + Jesus) to bless them with luck in item drops or improving their equipment.
+
+#### Desire Sensor
+A mythical sensor that somehow knows what you are trying to hunt down and "gifts" you a "gift" in the form of a troll item drop, or by giving the item you wanted to your friends instead.
+
+Some players swear by this sensor and go to great lengths to avoid tripping it. Often lumped together with RNGesus.
+
+#### Whales & Whaling
+**Whale**,(/(h)wāl/) a noun.
+
+Whales are players who have some sort of disposable income IRL. They are known to throw money at the game to obtain cosmetics and other things.
+
+**Whaling**, (/ˈ(h)wāliNG/) a verb.
+
+The act of spending real money, usually loads of it.
+
+#### Mates & Atomizers (Healing Items)
+A staple in the Phantasy Star series, the basic healing items make a return. A difference from the previous series however, is that you're unable to hold more than 5 **Atomizers** and each healing item has an animation.
+
+* Monomate = A small heal effect
+* Dimate = A medium heal effect
+* Trimate = A large heal effect
+* Moon Atomizer = Allows you to revive other players within range, cannot revive yourself.
+* Sol Atomizer = Cures you and others within range of a status ailment
+* Star Atomizer = Cures status ailments and heals players (including you) within range. 
+* Cosmo Atomizer = OP healing item that only real money can buy. Do not buy this unless you have disposable income.
+
 #### Currency
 PSO2, like all other online games, has multiple currencies. The main currency from the previous games, **Meseta**, makes a return to PSO2 as its in-game only currency. 
 
-There is also **ARKS Cash**, or **AC**. This is the premium currency that can only be obtained by purchasing with real money. This is mostly used for cosmetics, but can also be used to purchase other things in the game. Thankfully, it's impossible to buy your way into getting gear using real money.
+There is also **ARKS Cash**, or **AC**. This is the premium currency that can only be obtained by purchasing with real money (:whale2:). This is mostly used for cosmetics, but can also be used to purchase other things in the game. Thankfully, it's impossible to buy your way into getting gear using real money.
 
-**Star Gems** or **SG**, is the 
+**Star Gems** or **SG**, is the currency that is mostly used as a gatekeeper to all things time based, cosmetics and skill trees. You can get this for free, or by whaling your way in.
 
 **FUN Points** or **FUN**, is the 
 
@@ -28,9 +58,9 @@ There is also **ARKS Cash**, or **AC**. This is the premium currency that can on
 
 **Challenge Miles** or **CM**,
 
-**Battle Points** or **BP**,
+**Battle Coins** or **B**,
 
-**NetCafe Points** or **NC**,
+**NetCafe Points** or **C**,
 
 #### Player Stats
 As per all RPGs, Phantasy Star Online 2 uses a slough of stat types that increase specific attributes to your player character. Some increase your weapon damage, others increase your damage variance, and your defense. Here is a breakdown of each stat-type:
@@ -96,10 +126,22 @@ Weapons that are grinded to their maximum will have separate ability that differ
 Every weapon has a potential ability and is always recommended to seek weapons with powerful potential abilities. Some can have high damage percentage modifiers that can cause a lower rarity weapon to equal or exceed a higher rarity weapon.
 
 #### Fodder
+Equipment that its only purpose in life is to be used as material for improving one's other equipment during affixing.
 
-#### Client Orders
+#### Client Orders (COs)
+"Quests" given by NPCs. Avoid calling them quests or missions as those terms are used for completely different things.
 
 #### Difficulty
+There are six difficulties. Certain rarity of equipment are only available on higher difficulties.
+
+1. **Normal (N)**
+2. **Hard (H)**
+3. **Very Hard (VH)**
+4. **Super Hard (SH)**
+5. **Extra Hard (XH)**
+6. **Ultra Hard (UH)**
+
+Most endgame content (at the time of writing) is centered on XH and UH.
 
 #### Party
 
@@ -135,7 +177,11 @@ They are as followed:
 * Etoile = ET
 
 #### Old Type & New Type
-Upon it's initial release until 2015, PSO2 was saturated with a certain class of weapon that required you to throw meseta at the 
+Upon it's initial release until 2015, PSO2 was saturated with a certain class of weapon that required you to throw meseta at the Item Lab NPCs to improve the strength of your weapon with a heavy dose of RNG (Random Number Generator). The process was long and required large sums of meseta and materials, it was a common process to go from riches to rags with this system.
+
+While some strange and masochistic players enjoyed this lengthy and costly process, a growing number of players did not. SEGA implemented a new type of weapon class called **"New Type"** or **NT**, which eventually phased out the older system and weapons now dubbed as **"Old Type"** or **OT**.
+
+NT weapons were different as they featured an EXP bar and no RNG to improve them. Weapon EXP was gained by using other weapons as **Grind EXP**, which also increased the grind cap to +35. (Old Types were capped at +10.)
 
 #### Mags & Photon Blasts
 
