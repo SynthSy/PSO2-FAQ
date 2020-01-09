@@ -52,15 +52,15 @@ There is also **ARKS Cash**, or **AC**. This is the premium currency that can on
 
 **Star Gems** or **SG**, is the currency that is mostly used as a gatekeeper to all things time based, cosmetics and skill trees. You can get this for free, or by whaling your way in.
 
-**FUN Points** or **FUN**, is the 
+**FUN Points** or **FUN**, is a currency mostly obtained via playing the game, such as logging in daily or reviving other players.
 
-**Casino Coins** or **CC**, is the
+**Casino Coins** or **CC**, is the currency used by the Casino Area. It can be obtained from Casino Coin Passes and can be gambled away via a variety of minigames. Casino Coins can be used to purchase Casino-themed cosmetics or a variety of helpful items.
 
-**Challenge Miles** or **CM**,
+**Challenge Miles** or **CM**, is a currency obtained by playing the Challenge Quest mode.
 
-**Battle Coins** or **B**,
+**Battle Coins** or **B**, is a currency obtained by playing the game's Player vs. Player mode, Battle Arena.
 
-**NetCafe Points** or **C**,
+**NetCafe Points** or **C**, is a currency obtained by playing the game via a certified Japanese internet cafe.
 
 #### Player Stats
 As per all RPGs, Phantasy Star Online 2 uses a slough of stat types that increase specific attributes to your player character. Some increase your weapon damage, others increase your damage variance, and your defense. Here is a breakdown of each stat-type:
