@@ -100,7 +100,7 @@ Cause remember kids, the next time you get angry over a bad player, you'll need 
 
 <img src="https://i.imgur.com/PT6lfEE.gif">
 
-**Class Build Compilation**<br>
+#### Class Build Compilation
 <http://tinyurl.com/PSO2-Build-Compilation>
 
 * Note 1: Builds in <span style="color:green;">**GREEN**</span> are up to date.
