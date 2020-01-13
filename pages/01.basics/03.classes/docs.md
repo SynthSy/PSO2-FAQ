@@ -91,4 +91,15 @@ A class that specializes in fighting groups of enemies. Utilizing Swords, Twin M
 
 ### Etoile (ET)
 
+<hr>
+
+# Futher Reading
+If you would like to delve deeper into class specific builds and general learning how to play a class better, be sure to check out the guides below, written by talented individuals.
+
+Cause remember kids, the next time you get angry over a bad player, you'll need the resources and team work to play better.
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/KpRoZeI2dLhf2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/feelings-only-hard-KpRoZeI2dLhf2">via GIPHY</a></p>
+
+
+
 

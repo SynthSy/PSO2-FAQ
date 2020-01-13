@@ -283,6 +283,6 @@ Mags in PSO2 feature unique actions that trigger when they meet a certain condit
 It is **highly recommended** that Mags are fed to their maximum attack stat value and focused only on a single stat. For example, a class such as Hunter, a striking based class, would benefit greatly from a mag
 that has maxed out its S-ATK and suffer an extreme disadvantage if it was given a mag that was leveled only in T-ATK, or if it was given a mag that had 100 S-ATK and 100 S-DEF.
 
-Unless it's otherwise stated in individual class build guides 
+Unless it's otherwise stated in individual class build guides, do not under any circumstance, deviate from single stat mag leveling.
 
 

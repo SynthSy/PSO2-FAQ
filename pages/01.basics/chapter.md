@@ -10,3 +10,5 @@ taxonomy:
 This is a beginner's guide and search tool to Frequently Asked Questions and resources that are aimed towards beginners and returning players/veteran of the series.
 
 This guide will go over common questions, such as classes and terms used in the Phantasy Star Online 2 JP English Community, as well as other terms that one may not be familiar with in regards to standard online gaming slang and etiquette.
+
+Heavy use of sarcasm and poor taste (shitposting) are used in this beginner's guide.
