@@ -1,6 +1,6 @@
 ---
 title: Terminology
-media_order: 'units.png,character stats.jpg'
+media_order: 'units.png,character stats.jpg,premium space.jpg'
 taxonomy:
     category:
         - docs
@@ -9,6 +9,19 @@ visible: true
 
 <hr>
 As with every online game, PSO2 has its own bundle of new words to learn and digest. So to make it easier, we'll divide up the terminology by category.
+
+#### Blocks & Ships
+As from the previous section, a Ship is usually referring to the 10 server instances. In each Ship, contains multiple lobby instances called **"Blocks"**.
+
+Block instances are separate from each other and cannot interact with others in other blocks.
+
+#### My Room
+Housing system. Each player gets a Mini Room that holds up to 5 room objects and a My Room terminal that does other fancy features.
+
+Can unlock a more spacious room with IRL money or an in-game item that you can trade materials for.
+
+#### Teams
+The guild system in PSO2. Has its own unlockable & customizable guildhall called a "Team Room". Comes with a plant that once fed to its maximum, will grow into a huge tree that rivals the trees in the hit 90's anime, ***Tenchi Muyo***.
 
 #### Rarity
 PSO2 has a basic rarity system that those who played the previous series, namely Phantasy Star Universe, will be familiar with.
@@ -26,12 +39,40 @@ A mythical sensor that somehow knows what you are trying to hunt down and "gifts
 Some players swear by this sensor and go to great lengths to avoid tripping it. Often lumped together with RNGesus.
 
 #### Boosts
+Items that give a player a boost effect. Usually handed out like candy as the player progresses into the game. All boost item effects are percentage based and most of them stack with each other, except for the same type.
+
+Examples:
+* Experience Gained - A percentage based booster that raises the amount of EXP gained.
+* Rare Drop Rate - A percentage based booster that increases the **Rare Drop Rate (RDR)** of an item. See RNG.
+* Meseta Gained - Same as the other boosters, but boosts the amount of Meseta dropped.
+* Tri-Boost - A booster that is part Meseta, Rare Drop Rate & EXP in a single booster. Can be used in conjunction with other boosters. SEGA hands them out whenever they screw up, as if it meant something.
+* EX Tri-Boost - A Star Gem scratch only booster that gives another Tri-Boost effect. Can be used in conjunction with the above boosters.
+* Food - Food with boosts, they do things.
 
 #### Boost Week
+Holy week, but for improving your equipment and having increased Rare Drops, EXP Up and other things.
+
+Other names include "Dudu Week", "Grind Week", etc.
 
 #### Premium/Premium Set
+PSO2's optional monthly "subscriber" benefit package. Items that come in 30 day, 60 day and 90 day options.
+
+Premium Set benefits include:
+* The ability to trade with other Premium users
+* Premium block access and premium space. **Premium Space** allows players to join a full block, granted that the block in general has enough room in the **"Premium Space"**.
+* The ability to use certain My Room objects.
+* The ability to use Team Storage
+* The ability to sell items without needing a damned shop pass.
+* Additional Medical Drink effects.
+* 20 more Client Order slots.
+* A Tri-Boost 50% effect that lasts the duration of the Premium Set.
+
+![](premium%20space.jpg)
 
 #### Scratches
+The gacha system.
+
+If you're new to asian online games, they're a cash grab lotto system for cosmetics and other items. Usually crappier games stuff OP items and equipment into these systems, but PSO2 uses it for cosmetics and items that improve your equipment during item grinding or affixing.
 
 #### Whales & Whaling
 **Whale**, (/(h)wāl/) a noun.
@@ -56,7 +97,7 @@ A staple in the Phantasy Star series, the basic healing items make a return. A d
 #### Currency
 PSO2, like all other online games, has multiple currencies. The main currency from the previous games, **Meseta**, makes a return to PSO2 as its in-game only currency. 
 
-There is also **ARKS Cash**, or **AC**. This is the premium currency that can only be obtained by purchasing with real money (:whale2:). This is mostly used for cosmetics, but can also be used to purchase other things in the game. Thankfully, it's impossible to buy your way into getting gear using real money.
+There is also **ARKS Cash**, or **AC**. This is the premium currency that can only be obtained by purchasing with real money (:whale2:). This is mostly used for cosmetics, but can also be used to purchase other things in the game. Thankfully, it's impossible to buy your way into getting gear using real money. Exchange rate is 1 AC to 1 Japanese Yen.
 
 **Star Gems** or **SG**, is the currency that is mostly used as a gatekeeper to all things time based, cosmetics and skill trees. You can get this for free, or by whaling your way in.
 
