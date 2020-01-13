@@ -98,8 +98,4 @@ If you would like to delve deeper into class specific builds and general learnin
 
 Cause remember kids, the next time you get angry over a bad player, you'll need the resources and team work to play better.
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/KpRoZeI2dLhf2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/feelings-only-hard-KpRoZeI2dLhf2">via GIPHY</a></p>
-
-
-
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/TdBjJZf" data-context="false" ><a href="//imgur.com/a/TdBjJZf"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
