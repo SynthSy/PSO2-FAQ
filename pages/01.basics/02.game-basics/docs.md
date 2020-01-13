@@ -1,6 +1,6 @@
 ---
 title: Terminology
-media_order: 'units.png,character stats.jpg,premium space.jpg'
+media_order: 'units.png,character stats.jpg,premium space.jpg,storage.jpg,team-storage.jpg,visiphone.jpg'
 taxonomy:
     category:
         - docs
@@ -19,6 +19,15 @@ Block instances are separate from each other and cannot interact with others in 
 Housing system. Each player gets a Mini Room that holds up to 5 room objects and a My Room terminal that does other fancy features.
 
 Can unlock a more spacious room with IRL money or an in-game item that you can trade materials for.
+
+#### Visiphone & Storage Terminals
+The pink question mark terminal is called the Visiphone. Your player records (time played, recent quest ranks etc), player shops (yours and others) and other basic functions can be performed here.
+
+The green cube terminal is the player storage. Items and other equipment not in your inventory is located here.
+
+The yellow cube terminal is the team storage (guild storage). Only usable when you've unlocked the use of one and are a premium set user.
+
+![My Storage](storage.jpg) ![Team Storage](team-storage.jpg) ![Visiphone](visiphone.jpg)
 
 #### Teams
 The guild system in PSO2. Has its own unlockable & customizable guildhall called a "Team Room". Comes with a plant that once fed to its maximum, will grow into a huge tree that rivals the trees in the hit 90's anime, ***Tenchi Muyo***.
@@ -192,10 +201,35 @@ There are six difficulties. Certain rarity of equipment are only available on hi
 Most endgame content (at the time of writing) is centered on XH and UH. Most of the community are at this point.
 
 #### Party
+Players can have up to 3 other players in their party. Isn't that a ball?
 
 #### Quest Types
+Phantasy Star Online 2 has a variety of quest types, too long to list in detail. 
+The most common quest types one will hear in their early adventures are:
+* **Emergency Quests (EQs)** - Large scale timed raids that usually start on the hour. Occasionally contains gear that is needed for endgame at higher difficulties. Not to be confused with RAID: Shadow Legends. Forget everything you think you know about mobile games, because one of the most ambitious RPG projects of 2019 has just been released, and it's going to change everything. Introducing RAID: Shadow Legends. Playing RAID is the most immersive experience you'll find on a smartphone, and it can only really be compared with the biggest PC and Console titles. And the best part? It's totally free!
+
+RAID has all the features you’d expect from a brand new RPG title, like an amazing storyline, awesome 3D graphics, giant boss fights, PVP battles, and hundreds of champions to collect and customize. I never expected to get this level of performance out of a mobile game. RAID has been downloaded by more than 10 million players worldwide in just less than 6 months!
+
+My favourite champion is Harvester because not only is she hot and sexy, she can harvest me for something else if you know what I mean.
+
+What I love about this game is that everyone can find something for himself. Some love collecting characters, some are all about the deep storyline and graphics, but I am personally down for combating against other live players, just like in PSO2 PVP.
+
+Personally, I think the game is amazing but you don’t just have to take my word for it, with more than 300,000 reviews, RAID has an almost perfect score on the google play store. Use my download code below to get Harvester for free and don’t forget to join my clan on RAID: Shadow Legends and maybe you can play with me!
+* **Limited Quests (LQs)** - A limited event quest that usually features a slough of tough enemies and bosses alike. Often times contains the materials needed by players at endgame.
+* **Advanced Quests (AQs)** - A timed quest that features decently strong enemies and increased EXP. Requires items called **Advanced Capsules** to run them.
+* **Bonus Quests** - See the entry below on Bonus Keys.
+* **Extreme Quests (XQs)** - Timed quests with multiple stages and tough enemies for beginner players. Requires Extreme Passes to do them.
+* **Ultimate Quests (UQs)** - Quests that are aimed towards players who are approaching or at endgame.
+* **Buster Quests** - A quest type introduced in the game's "EPISODE 5" story.
+* **Trigger Quests** - A quest that can be ran on demand. Usually EQs have their own associated trigger quest that drops within their respective EQs.
+
 
 #### Bonus Keys
+A special type of key that allows players to access a special solo quest, known as a **Bonus Quest**.
+
+Bonus Quests scale to your current level and give high amounts of EXP. Often used to level classes really quickly with zero effort.
+
+For more information, see the ARKS Visiphone for more information on Bonus Keys: [Link](https://pso2.arks-visiphone.com/wiki/Bonus_Keys).
 
 #### PSE & PSE Bursts
 
@@ -210,21 +244,21 @@ Just Attacks, or JAs are the act of timing your attacks according to the timing 
 It is not stressed enough how important players should master their Just Attack timings.
 
 #### Classes
-PSO2 has 15 classes total, each are usually abbreviated when talking about them.
+PSO2 has 15 classes total, each are usually abbreviated when talking about them. 
 
-They are as followed:
-* Hunter = HU
-* Ranger = RA
-* Force  = FO
-* Fighter = FI
-* Gunner = GU
-* Techer = TE
-* Braver = BR
-* Bouncer = BO
-* Summoner = SU
-* Hero = HR
-* Phantom = PH
-* Etoile = ET
+They are as followed (more information in the next chapter):
+* Hunter = HU, they use Swords, Wired Lances, and Partizans.
+* Ranger = RA, they use Rifles and Launchers.
+* Force  = FO, they use Rods and Talises with techniques. (Generic caster)
+* Fighter = FI, they use Twin Daggers, Double Sabers, and Knuckles. (Almost like a cross between a monk and Jackie Chan)
+* Gunner = GU, uses Rifles and Twin Machineguns. ([Uses Twin Machineguns, aka akimbo SMGs & handguns like this.](https://www.youtube.com/watch?v=U02E2sjwlLM))
+* Techer = TE, they use Wands and Talises with techniques.
+* Braver = BR, uses Katanas and Bows. Uses glorious nipple steel, folded over 1000 times, with blades sharp like katana. Can cut through anything, filthy gaijin go home.
+* Bouncer = BO, uses Dual Blades and Jet Boots. Can use techniques. (Like an airbender, with tonfas and shoes)
+* Summoner = SU, uses Pets and Takts. Can use techniques. (Think a pokemon trainer with magical powers)
+* Hero = HR, a successor class that uses Swords, Twin Machineguns, and Talises. Can also use techniques. 
+* Phantom = PH, a successor class that uses Rods, Katanas, and Rifles. Can use techniques. Can also teleport behind you and be just like your japanese animes.
+* Etoile = ET, a successor class that cannot use techniques, but can use Dual Blades, Wands and Double Sabers. It's a literal tank.
 
 #### Old Type & New Type
 Upon it's initial release until 2015, PSO2 was saturated with a certain class of weapon that required you to throw meseta at the Item Lab NPCs to improve the strength of your weapon with a heavy dose of RNG (Random Number Generator). The process was long and required large sums of meseta and materials, it was a common process to go from riches to rags with this system.
@@ -234,4 +268,16 @@ While some strange and masochistic players enjoyed this lengthy and costly proce
 NT weapons were different as they featured an EXP bar and no RNG to improve them. Weapon EXP was gained by using other weapons as **Grind EXP**, which also increased the grind cap to +35. (Old Types were capped at +10.)
 
 #### Mags & Photon Blasts
+A mag is a small ~~localized singularity~~ companion device that also adds to your overall stats. Veterans of the previous series may be familiar with the concept.
+
+They mimic the player's own stats minus the HP and PP. Mags need to be fed to grow their levels and unlock the Photon Blast, powerful summons that are super useful early game and nearly useless (save for a very limited amount) endgame. 
+Unlike Mags from the previous series, the Photon Blast can be changed at a later time. Mags evolve into different forms at Lv.10, Lv.30, Lv.50 and finally, Lv.100, with the maximum possible level is 200.
+
+Mags in PSO2 feature unique actions that trigger when they meet a certain condition. Each mag evolution has their own unique special trigger that is based on the highest stat leveled. Fortunately, none of that actually matters a whole lot, save for a few preferences as players can buy certain mag triggers at certain shops in the shop area.
+
+It is **highly recommended** that Mags are fed to their maximum attack stat value and focused only on a single stat. For example, a class such as Hunter, a striking based class, would benefit greatly from a mag
+that has maxed out its S-ATK and suffer an extreme disadvantage if it was given a mag that was leveled only in T-ATK, or if it was given a mag that had 100 S-ATK and 100 S-DEF.
+
+Unless it's otherwise stated in individual class build guides 
+
 
