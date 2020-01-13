@@ -100,7 +100,38 @@ Cause remember kids, the next time you get angry over a bad player, you'll need 
 
 <img src="https://i.imgur.com/PT6lfEE.gif">
 
-#### Class Build Compilation
+<table>
+	<thead>
+		<tr>
+			<th>Class</th>
+			<th>Author</th>
+			<th>Description</th>
+			<th>Link</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><b>Hunter</b></td>
+			<td><b>TheRaven</b></td>
+			<td>A Partizan Hunter Guide</td>
+			<td><a href="https://goo.gl/4A5XWY" target="_blank">https://goo.gl/4A5XWY</td>
+		</tr>
+		<tr>
+			<td><b>Fighter</b></td>
+			<td><b>Kyo</b></td>
+			<td>A Double Saber Fighter Guide</td>
+			<td><a href="http://tinyurl.com/yyfvq5v4" target="_blank">http://tinyurl.com/yyfvq5v4</td>
+		</tr>
+		<tr>
+			<td><b>Bouncer</b></td>
+			<td><b>Ryutensei</b></td>
+			<td>A comprehensive Bouncer Guide</td>
+			<td><a href="https://goo.gl/S184Bz" target="_blank">https://goo.gl/S184Bz</td>
+		</tr>
+	</tbody>
+</table>
+
+**Class Build Compilation**<br>
 <http://tinyurl.com/PSO2-Build-Compilation>
 
 * Note 1: Builds in <span style="color:green;">**GREEN**</span> are up to date.
