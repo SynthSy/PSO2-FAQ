@@ -1,5 +1,6 @@
 ---
 title: Terminology
+slug: game-basics
 media_order: 'units.png,character stats.jpg,premium space.jpg,storage.jpg,team-storage.jpg,visiphone.jpg'
 taxonomy:
     category:
@@ -29,9 +30,9 @@ The yellow cube terminal is the team storage (guild storage). Only usable when y
 
 <table>
 	<tr>
-		<td><img alt="My Storage" src="storage.jpg"></td>
-		<td><img alt="Team Storage" src="team-storage.jpg"></td>
-		<td><img alt="Visiphone" src="visiphone.jpg"></td>
+		<td><img alt="My Storage" src="user://images/storage.jpg"></td>
+		<td><img alt="Team Storage" src="user://images/team-storage.jpg"></td>
+		<td><img alt="Visiphone" src="user://images/visiphone.jpg"></td>
 	</tr>
 </table>
 
