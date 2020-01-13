@@ -203,7 +203,7 @@ Most endgame content (at the time of writing) is centered on XH and UH. Most of 
 #### Party
 Players can have up to 3 other players in their party. Isn't that a ball?
 
-#### Quest Types
+<h4 id="quest-types">Quest Types</h4>
 Phantasy Star Online 2 has a variety of quest types, too long to list in detail. 
 The most common quest types one will hear in their early adventures are:
 * **Emergency Quests (EQs)** - Large scale timed raids that usually start on the hour. Occasionally contains gear that is needed for endgame at higher difficulties. Not to be confused with RAID: Shadow Legends. Forget everything you think you know about mobile games, because one of the most ambitious RPG projects of 2019 has just been released, and it's going to change everything. Introducing RAID: Shadow Legends. Playing RAID is the most immersive experience you'll find on a smartphone, and it can only really be compared with the biggest PC and Console titles. And the best part? It's totally free!
@@ -243,7 +243,7 @@ Just Attacks, or JAs are the act of timing your attacks according to the timing 
 
 It is not stressed enough how important players should master their Just Attack timings.
 
-#### Classes
+<h4 id="classes">Classes</h4>
 PSO2 has 15 classes total, each are usually abbreviated when talking about them. 
 
 They are as followed (more information in the next chapter):
