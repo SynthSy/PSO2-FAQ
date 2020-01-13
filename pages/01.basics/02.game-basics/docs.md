@@ -30,9 +30,9 @@ The yellow cube terminal is the team storage (guild storage). Only usable when y
 
 <table>
 	<tr>
-		<td><img alt="My Storage" src="../basics/game-basics/storage.jpg"></td>
-		<td><img alt="Team Storage" src="../basics/game-basics/team-storage.jpg"></td>
-		<td><img alt="Visiphone" src="../basics/game-basics/visiphone.jpg"></td>
+		<td><img width="30%" alt="My Storage" src="../basics/game-basics/storage.jpg"></td>
+		<td><img width="30%" alt="Team Storage" src="../basics/game-basics/team-storage.jpg"></td>
+		<td><img width="30%" alt="Visiphone" src="../basics/game-basics/visiphone.jpg"></td>
 	</tr>
 </table>
 
