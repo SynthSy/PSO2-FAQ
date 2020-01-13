@@ -99,3 +99,10 @@ If you would like to delve deeper into class specific builds and general learnin
 Cause remember kids, the next time you get angry over a bad player, you'll need the resources and team work to play better.
 
 <img src="https://i.imgur.com/PT6lfEE.gif">
+
+> **Class Build Compilation**
+> <http://tinyurl.com/PSO2-Build-Compilation>
+> 
+> Note 1: Builds in <span style="color:green;">**GREEN**</span> are up to date.
+> Note 2: Builds in <span style="color:orange;">**ORANGE**</span> are **Pre August 21 Patch**.
+> Note 3: Builds in <span style="color:red;">**RED**</span> are old builds left outdated by their respective authors.
