@@ -8,7 +8,7 @@ visible: true
 
 <img src="https://i.imgur.com/OA9rOCl.png">
 
-By pressing Start, Pause, Esc, F1, or Home, you can 
+By pressing Start, Pause, Esc, F1, or Home, you can access the basic player menu. Check out the various menu items yourself, or read below.
 
 ## 1. Inventory
 * Item: Opens up the character's inventory. Items are stored by the following categories: Weapons, Units, Costumes, Consumables, Disks, Room Goods, Materials, and Miscellaneous.
