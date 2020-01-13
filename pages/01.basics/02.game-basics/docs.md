@@ -27,7 +27,13 @@ The green cube terminal is the player storage. Items and other equipment not in 
 
 The yellow cube terminal is the team storage (guild storage). Only usable when you've unlocked the use of one and are a premium set user.
 
-![My Storage](storage.jpg) ![Team Storage](team-storage.jpg) ![Visiphone](visiphone.jpg)
+<table>
+	<tr>
+		<td>![My Storage](storage.jpg)</td>
+		<td>![Team Storage](team-storage.jpg)</td>
+		<td>![Visiphone](visiphone.jpg)</td>
+	</tr>
+</table>
 
 #### Teams
 The guild system in PSO2. Has its own unlockable & customizable guildhall called a "Team Room". Comes with a plant that once fed to its maximum, will grow into a huge tree that rivals the trees in the hit 90's anime, ***Tenchi Muyo***.

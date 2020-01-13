@@ -52,8 +52,8 @@ By pressing Start, Pause, Esc, F1, or Home, you can access the basic player menu
 * Information: Miscellaneous information & helpful in-game tutorial.
 
 ## 7. Shop
-* AC Shop: Opens the AC shop where players can purchase things using AC (Arks Cash which is obtained using real money)
-* Star Gem Shop: Opens the SG shop where players can purchase various items using Star Gems (can be obtained with real money or through titles and campaign rewards)
+* AC Shop: Opens the AC shop where players can purchase things using AC (Arks Cash which is obtained using real money).
+* Star Gem Shop: Opens the SG shop where players can purchase various items using Star Gems (can be obtained with real money or through titles and campaign rewards).
 * Scratch Drawings: Displays the Scratch drawings (Gacha for those in the know). Can obtain items using AC, SG, or FUN points.
 * Recycle Shop: Opens the recycle shop (not accessible in quest areas). Recycle items and weapons into useful things like excuses and photon spheres.
 * Purchase History / Expirations: View a history of AC shop purchases and how much time remains on temporary facilities.
