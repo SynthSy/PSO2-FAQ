@@ -98,4 +98,4 @@ If you would like to delve deeper into class specific builds and general learnin
 
 Cause remember kids, the next time you get angry over a bad player, you'll need the resources and team work to play better.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/TdBjJZf" data-context="false" ><a href="//imgur.com/a/TdBjJZf"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/PT6lfEE.gif">
