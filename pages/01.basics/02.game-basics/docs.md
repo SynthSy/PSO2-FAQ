@@ -167,8 +167,6 @@ There are 4 types of units, **Rear, Arm, Leg, and Sub.**
 
 Sub units are definied by having **Sub** in their name. They may be placed into any armor slot. They're used as temporary armor, don't give them a name, don't feed them, don't get attached to them.
 
-#### Weapon & Unit Grinding
-
 #### Photon Arts & Techniques (PA/Techs)
 **Photon Arts (PA)** are powerful attacks that weapons for each [class](/../classes/) can unleash.
 
