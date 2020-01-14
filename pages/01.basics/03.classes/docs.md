@@ -64,7 +64,7 @@ When you reach Lv.75 as a Ranger, you can unlock a <a href="#">**Title Reward**<
 
 ### Braver (BR)
 
-### Bouncer (BO)
+<h3 id="bouncer">Bouncer (BO)</h3>
 From a certain Bouncer guide:<br>
 > Bouncer is a class that boasts usage of S-ATK and T-ATK with access to technics to supplement its low amount of Photon Arts, all of which are scaled from S-ATK. With this in its arsenal, it has the second highest normal attack damage and all of its damage options boast gratuitous hitboxes as both a big strength and weakness.
 
