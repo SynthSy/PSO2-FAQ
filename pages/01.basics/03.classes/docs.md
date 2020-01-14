@@ -22,7 +22,7 @@ Let's start by examining each class at a glance. We won't go over into detail on
 The Normal Classes are the 9 standard classes that can be played right out of the box without needing any sort of special requirement.
 
 ### Hunter (HU)
-A class that focuses on melee combat. Utilizing **Swords, Wired Lances, and Partizans**, Hunter boasts a varied arsenal of strong Striking-type weaponry and a Skill Tree that promotes both offensive and defensive play, 
+A class that focuses on melee combat. Utilizing **Swords, Wired Lances, and Partizans**, Hunter boasts a varied arsenal of strong Striking-type (S-ATK) weaponry and a Skill Tree that promotes both offensive and defensive play, 
 making it well suited for solo and beginner players.
 
 <strong>ARKS-Visiphone Wiki description on Hunter's weaponry:</strong>
@@ -42,7 +42,7 @@ making it well suited for solo and beginner players.
 Upon reaching Lv.75 as a Hunter, you can claim a <a href="#">**Title Reward**</a> that grants all characters on your account **HP +50, R-ATK +15, and S-DEF +40**.
 
 ### Ranger (RA)
-A class that utilizes mid-range weaponry for ranged combat that specializes in mid-range "supportive" DPS that shines best against large enemies and large enemy groups. A Ranger's weapons include **Assault Rifles and Launchers**.
+A class that utilizes mid-range weaponry for ranged (R-ATK) combat that specializes in mid-range "supportive" DPS that shines best against large enemies and large enemy groups. A Ranger's weapons include **Assault Rifles and Launchers**.
 
 <strong>ARKS-Visiphone Wiki description on Ranger's weaponry:</strong>
 
@@ -65,6 +65,16 @@ When you reach Lv.75 as a Ranger, you can unlock a <a href="#">**Title Reward**<
 ### Braver (BR)
 
 ### Bouncer (BO)
+From a certain Bouncer guide:<br>
+> Bouncer is a class that boasts usage of S-ATK and T-ATK with access to technics to supplement its low amount of Photon Arts, all of which are scaled from S-ATK. With this in its arsenal, it has the second highest normal attack damage and all of its damage options boast gratuitous hitboxes as both a big strength and weakness.
+
+The Jet Boots are an iconic weapon that allows on-the-fly elemental attribute changes, allowing for quick bursts in short phase rotations. Think of a highly mobile Gandalf from Lord of the Rings with [Mexican Pointy Boots](https://i.imgur.com/KIhhC1a.png) and the ability to cast magic from them.
+
+They also use Dual Blades, which are two short swords that go on each hand. They have the ability to throw mini projectiles called **Photon Blades** using their gear gauge via their **Weapon Action**.
+
+Using **[Weapon Camos](../basics/game-basics#weapon-camos)**, you can even cosplay [Kirito](https://i.imgur.com/JaVC43j.png) and [Roxas](http://mmoloda.com/pso2/image.php?id=116911)!
+
+**Skill Tree overview: <a href="https://pso2.arks-visiphone.com/wiki/Bouncer#Skill_Tree_Overview" target="_blank">Link</a>.
 
 ### Summoner (SU)
 
@@ -85,7 +95,7 @@ A class that specializes in fighting groups of enemies. Utilizing Swords, Twin M
 | Weapon Action: **Energy Blast** - Fire bolts of Photon energy. Long pressing charges the blast and lets you fire an even larger bolt. | Normal attacks consume PP. | Weapon action: **Agile Shift** - Allows you to set a warp point by long pressing the Weapon Action button, short tapping the Weapon Action button will cause you to teleport to that location. |
 | | Weapon action: **Reload** - Recovers PP by twirling your TMGs. By doing a JA on a Reload will perform a Just Reload, which is a faster PP regeneration. | Can perform Step Attacks instead of Mirage Step. |
 
-#### Skill Overview
+**Skill Tree overview: <a href="https://pso2.arks-visiphone.com/wiki/Hero#Skill_Tree_Overview" target="_blank">Link</a>.
 
 ### Phantom (PH)
 
@@ -113,20 +123,26 @@ Cause remember kids, the next time you get angry over a bad player, you'll need 
 		<tr>
 			<td><b>Hunter</b></td>
 			<td><b>TheRaven</b></td>
-			<td>A Partizan Hunter Guide</td>
+			<td>A Partizan Hunter guide</td>
 			<td><a href="https://goo.gl/4A5XWY" target="_blank">https://goo.gl/4A5XWY</td>
 		</tr>
 		<tr>
 			<td><b>Fighter</b></td>
 			<td><b>Kyo</b></td>
-			<td>A Double Saber Fighter Guide</td>
+			<td>A Double Saber Fighter guide</td>
 			<td><a href="http://tinyurl.com/yyfvq5v4" target="_blank">http://tinyurl.com/yyfvq5v4</td>
 		</tr>
 		<tr>
 			<td><b>Bouncer</b></td>
 			<td><b>Ryutensei</b></td>
-			<td>A comprehensive Bouncer Guide</td>
+			<td>A comprehensive Bouncer guide that teaches you all aspects of the class.</td>
 			<td><a href="https://goo.gl/S184Bz" target="_blank">https://goo.gl/S184Bz</td>
+		</tr>
+		<tr>
+			<td><b>Ranger</b></td>
+			<td><b>Zenora</b></td>
+			<td>A comprehensive Ranger guide</td>
+			<td><a href="https://somethingaboutlagging.wordpress.com/" target="_blank">https://somethingaboutlagging.wordpress.com/</a></td>
 		</tr>
 	</tbody>
 </table>

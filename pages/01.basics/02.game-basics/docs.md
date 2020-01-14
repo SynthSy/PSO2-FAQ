@@ -167,6 +167,9 @@ There are 4 types of units, **Rear, Arm, Leg, and Sub.**
 
 Sub units are definied by having **Sub** in their name. They may be placed into any armor slot. They're used as temporary armor, don't give them a name, don't feed them, don't get attached to them.
 
+<h4 id="weapon-camos">Weapon Camos</h4>
+Skins for your weapon, comes in different categories for different weapons.
+
 #### Photon Arts & Techniques (PA/Techs)
 **Photon Arts (PA)** are powerful attacks that weapons for each [class](/../classes/) can unleash.
 
