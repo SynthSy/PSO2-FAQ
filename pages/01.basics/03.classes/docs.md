@@ -21,7 +21,7 @@ Let's start by examining each class at a glance. We won't go over into detail on
 # Normal Classes
 The Normal Classes are the 9 standard classes that can be played right out of the box without needing any sort of special requirement.
 
-### Hunter (HU)
+<h3 id="hunter">Hunter (HU)</h3>
 A class that focuses on melee combat. Utilizing **Swords, Wired Lances, and Partizans**, Hunter boasts a varied arsenal of strong Striking-type (S-ATK) weaponry and a Skill Tree that promotes both offensive and defensive play, 
 making it well suited for solo and beginner players.
 
@@ -41,7 +41,7 @@ making it well suited for solo and beginner players.
 
 Upon reaching Lv.75 as a Hunter, you can claim a <a href="#">**Title Reward**</a> that grants all characters on your account **HP +50, R-ATK +15, and S-DEF +40**.
 
-### Ranger (RA)
+<h3 id="ranger">Ranger (RA)</h3>
 A class that utilizes mid-range weaponry for ranged (R-ATK) combat that specializes in mid-range "supportive" DPS that shines best against large enemies and large enemy groups. A Ranger's weapons include **Assault Rifles and Launchers**.
 
 <strong>ARKS-Visiphone Wiki description on Ranger's weaponry:</strong>
@@ -85,7 +85,7 @@ Unlike the 9 previous classes, Successor Classes are powerful classes that use w
 
 You're able to play a Successor Class by leveling two classes to Lv.75 and completing a [Client Order](#).
 
-### Hero (HR)
+<h3 id="hero">Hero (HR)</h3>
 A class that specializes in fighting groups of enemies. Utilizing Swords, Twin Machineguns and Talises, Heroes are able to handle all combat situations with ease, using their superior offensive abilities and agility; as well as their ability to seamlessly cycle their weapons mid-combo.
 
 #### Weapon differences between other classes
