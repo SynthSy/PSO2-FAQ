@@ -74,7 +74,7 @@ They also use Dual Blades, which are two short swords that go on each hand. They
 
 Using **[Weapon Camos](../basics/game-basics#weapon-camos)**, you can even cosplay [Kirito](https://i.imgur.com/JaVC43j.png) and [Roxas](http://mmoloda.com/pso2/image.php?id=116911)!
 
-**Skill Tree overview: <a href="https://pso2.arks-visiphone.com/wiki/Bouncer#Skill_Tree_Overview" target="_blank">Link</a>.
+**Skill Tree overview:** <a href="https://pso2.arks-visiphone.com/wiki/Bouncer#Skill_Tree_Overview" target="_blank">Link</a>.
 
 ### Summoner (SU)
 
@@ -95,7 +95,7 @@ A class that specializes in fighting groups of enemies. Utilizing Swords, Twin M
 | Weapon Action: **Energy Blast** - Fire bolts of Photon energy. Long pressing charges the blast and lets you fire an even larger bolt. | Normal attacks consume PP. | Weapon action: **Agile Shift** - Allows you to set a warp point by long pressing the Weapon Action button, short tapping the Weapon Action button will cause you to teleport to that location. |
 | | Weapon action: **Reload** - Recovers PP by twirling your TMGs. By doing a JA on a Reload will perform a Just Reload, which is a faster PP regeneration. | Can perform Step Attacks instead of Mirage Step. |
 
-**Skill Tree overview: <a href="https://pso2.arks-visiphone.com/wiki/Hero#Skill_Tree_Overview" target="_blank">Link</a>.
+**Skill Tree overview:** <a href="https://pso2.arks-visiphone.com/wiki/Hero#Skill_Tree_Overview" target="_blank">Link</a>.
 
 ### Phantom (PH)
 
