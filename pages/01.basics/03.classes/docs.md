@@ -223,7 +223,7 @@ Cause remember kids, the next time you get angry over a bad player, you'll need 
 </table>
 
 **Class Build Compilation**<br>
-<http://tinyurl.com/PSO2-Build-Compilation>
+<https://arks-layer.com/classbuilds>
 
 * Note 1: Builds in <span style="color:green;">**GREEN**</span> are up to date.
 * Note 2: Builds in <span style="color:orange;">**ORANGE**</span> are from before the latest patch.
