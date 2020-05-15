@@ -9,7 +9,8 @@ visible: true
 
 <hr>
 ## What is PSO2?
-**Phantasy Star Online 2 (PSO2)** is a free-to-play Action Online RPG created by SEGA, released originally in Japan on July 2012, with servers released in **South East Asia (SEA)** and **Taiwan (TW)**, with an upcoming server in **North America (NA)** being released sometime in Spring 2020. The SEA servers were terminated in 2017, along with the Taiwan servers.
+
+**Phantasy Star Online 2 (PSO2)** is a free-to-play Action Online RPG created by SEGA, released originally in Japan on July 2012, with servers released in **South East Asia (SEA)** and **Taiwan (TW)**, with a server in **North America (NA)**. The SEA servers were terminated in 2017, along with the Taiwan servers.
 
 PSO2 has been released on the **Playstation 4**, **Nintendo Switch** (Cloud streaming version only), **Playstation Vita**, **PC**, and **Xbox One** (NA exclusive). PSO2 has also spawned several side games, two released on mobile **(PSO2es & Idola: Phantasy Star Saga)** and another game that is separate to the main story of PSO2 **(Phantasy Star Nova)**, also released on the Vita.
 
